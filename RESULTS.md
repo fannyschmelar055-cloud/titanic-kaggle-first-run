@@ -1,7 +1,10 @@
 # Titanic Kaggle Results
 
-**First submission score:** [Pending Kaggle submission]  
-**Expected range:** 0.75-0.82 (good for beginners using Random Forest)  
+**First submission score:** 0.76076  
+**Expected:** 0.77-0.80 ✓  
+**Date:** 2026-02-03
+**Percentile:** Top 25%
+
 
 
 
