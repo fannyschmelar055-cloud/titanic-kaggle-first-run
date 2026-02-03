@@ -6,8 +6,8 @@ First ML project using Colab + Random Forest on Kaggle Titanic dataset.
 - `Titanic_first_run.ipynb` – Complete notebook (data → model → submission)
 - `RESULTS.md` – My Kaggle score (update after submission)
 
-## Expected Score
-**~0.78** (top 20% for beginners)
+## Score
+**0.76076** (top ~30% for beginners) ✓
 
 ## What I learned
 - Pandas data cleaning (Age, Sex, Embarked)
