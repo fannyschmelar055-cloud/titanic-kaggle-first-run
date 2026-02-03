@@ -1,18 +1,17 @@
 # 🚢 My First Kaggle Titanic Project
 
-My first machine learning project! Learned data loading, cleaning, Random Forest model, and Kaggle submission.
+First ML project using Colab + Random Forest on Kaggle Titanic dataset.
 
 ## Files
-- `Titanic_first_run.ipynb` – Complete Colab notebook (data → model → submission)
-- `my_first_titanic_submission.csv` – My Kaggle submission file  
-- `RESULTS.md` – My score 
+- `Titanic_first_run.ipynb` – Complete notebook (data → model → submission)
+- `RESULTS.md` – My Kaggle score (update after submission)
 
-## Kaggle Score
-Expected: **~0.77-0.80** (top 20-30% for beginners)
+## Expected Score
+**~0.78** (top 20% for beginners)
 
 ## What I learned
-- Colab notebooks
-- Pandas data cleaning  
-- Random Forest model
-- Kaggle submission process
+- Pandas data cleaning (Age, Sex, Embarked)
+- Random Forest model training
+- Kaggle submission workflow
+
 
